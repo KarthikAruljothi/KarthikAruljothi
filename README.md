@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarthikAruljothi
 - 👀 I’m interested in developing(programming), problem solving, creative thinking
-- 👀 I am intetrwsted in technologies like AI
+- 👀 I am intetrested in technologies like AI
 - 🌱 I’m currently pursuing my 3rd year in B.Tech - Artrificial Intelligence & Data Science
 - 💞️ I’m currently looking to develop my skills and personality
 - 📫 How to reach me -> (https://www.linkedin.com/in/karthik-a-064861208/)
